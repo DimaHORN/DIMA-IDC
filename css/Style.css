@@ -427,6 +427,17 @@ letter-spacing: 0.21em;
 color: #F2F3F7;
 }
 
+
+.scrollicon{
+    width: 30px;
+    height: 30px;
+    background-image: url(../image/icons/scroll11.png),url(../image/icons/scroll11.png);
+    background-repeat: no-repeat;
+    background-position: top, bottom;
+    margin-top: 200px ;
+   margin-left: 200px;
+}
+
 /* ///////////////////////////////////ПОПОЛНЕНИЕ СЧЕТА////////////////////////////////////////////// */
 
 .refill{
