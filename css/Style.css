@@ -435,7 +435,66 @@ color: #F2F3F7;
     background-repeat: no-repeat;
     background-position: top, bottom;
     margin-top: 200px ;
-   margin-left: 200px;
+   margin-left: 250px;
+}
+
+.scrolheader{
+    width: 50px;
+height: 50px;
+margin-top: 190px ;
+   margin-left: 350px;
+}
+
+.scrolheaderl{
+    width: 50px;
+height: 50px;
+background-image:    url(../image/icons/short_left.png) ;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+.scrolheaderl2{
+    width: 50px;
+height: 50px;
+    background-image:url(../image/icons/Ellipse\ 10.png)  ;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+}
+
+
+.scrolheader2{
+    width: 50px;
+height: 50px;
+margin-top: 190px ;
+  margin-left: 25px;
+}
+
+
+.scrolheader3{
+    width: 50px;
+    height: 50px;
+        background-image:url(../image/icons/Ellipse\ 10.png)  ;
+        background-repeat: no-repeat;
+        opacity: 1;
+}
+
+.scrollyellow{
+    width: 50px;
+    height: 50px;
+        background-image:url(../image/icons/Ellipse\ 120.png)  ;
+        background-repeat: no-repeat;
+        opacity: 1;
+}
+
+.scrolheaderl3{
+    width: 50px;
+height: 50px;
+    background-image:url(../image/icons/short_right.png)  ;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
 }
 
 /* ///////////////////////////////////ПОПОЛНЕНИЕ СЧЕТА////////////////////////////////////////////// */
