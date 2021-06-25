@@ -865,7 +865,7 @@ border-radius: 32px;
     border-radius: 48px;
     width: 150px;
 height: 36px;
-margin-left: 21px;
+margin-left: 31px;
 margin-top: 5px;
 padding-left: 39.24px;
 }
@@ -2209,40 +2209,148 @@ border-radius: 32px;
 font-style: normal;
 font-weight: normal;
 font-size: 12px;
-line-height: 16px;
+
 /* identical to box height, or 133% */
 
 
 /* Заголовок 2 */
 
 color: #37355B;
-}
-
-
-.fottedbtn:active{
-    white-space: nowrap;
-    font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 12px;
-line-height: 16px;
-/* identical to box height, or 133% */
-
-
-/* Заголовок 2 */
-
-color: #37355B;
-
-
 }
 
 #pills-home1-tab{
+    border-radius: 25px;
     background: #F2F3F7;
-    /* основной 3 */
-    
-    border: 2px solid #006285;
-    box-sizing: border-box;
-    border-radius: 32px;
     color: #37355B;
 
+}
+
+#pills-home1-tab:active{
+    color: #37355B;
+    background: #F2F3F7;
+border: 2px solid #006285;
+
+border-radius: 32px;
+}
+
+#pills-home1-tab:hover{
+    color: #37355B;
+    background: #F2F3F7;
+border: 2px solid #006285;
+padding-top: 6px;
+padding-left: 14px;
+border-radius: 32px;
+}
+
+#pills-home1-tab:focus{
+    color: #37355B;
+    background: #F2F3F7;
+    border: 2px solid #006285;
+    padding-top: 6px;
+    padding-left: 14px;
+    border-radius: 32px;
+}
+
+
+
+#pills-profile2-tab{
+    border-radius: 25px;
+    background: #F2F3F7;
+    color: #37355B;
+
+}
+
+#pills-profile2-tab:active{
+    color: #37355B;
+    background: #F2F3F7;
+border: 2px solid #006285;
+
+border-radius: 32px;
+}
+
+#pills-profile2-tab:hover{
+    color: #37355B;
+    background: #F2F3F7;
+border: 2px solid #006285;
+padding-top: 6px;
+padding-left: 14px;
+border-radius: 32px;
+}
+
+#pills-profile2-tab:focus{
+    color: #37355B;
+    background: #F2F3F7;
+    border: 2px solid #006285;
+    padding-top: 6px;
+    padding-left: 14px;
+    border-radius: 32px;
+}
+
+
+#pills-contact3-tab{
+    border-radius: 25px;
+    background: #F2F3F7;
+    color: #37355B;
+
+}
+
+#pills-contact3-tab:active{
+    color: #37355B;
+    background: #F2F3F7;
+border: 2px solid #006285;
+
+border-radius: 32px;
+}
+
+#pills-contact3-tab:hover{
+    color: #37355B;
+    background: #F2F3F7;
+border: 2px solid #006285;
+padding-top: 6px;
+padding-left: 14px;
+border-radius: 32px;
+}
+
+#pills-contact3-tab:focus{
+    color: #37355B;
+    background: #F2F3F7;
+    border: 2px solid #006285;
+    padding-top: 6px;
+    padding-left: 14px;
+    border-radius: 32px;
+}
+
+
+
+#pills-contact4-tab{
+    border-radius: 25px;
+    background: #F2F3F7;
+    color: #37355B;
+
+}
+
+#pills-contact4-tab:active{
+    color: #37355B;
+    background: #F2F3F7;
+border: 2px solid #006285;
+
+border-radius: 32px;
+}
+
+#pills-contact4-tab:hover{
+    color: #37355B;
+    background: #F2F3F7;
+border: 2px solid #006285;
+padding-top: 6px;
+padding-left: 14px;
+border-radius: 32px;
+}
+
+#pills-contact4-tab:focus{
+    color: #37355B;
+    background: #F2F3F7;
+    border: 2px solid #006285;
+    padding-top: 6px;
+    padding-left: 14px;
+    border-radius: 32px;
 }
