@@ -105,72 +105,75 @@ color: #F2F3F7;
    
 }
 
-.menu__item a:nth-child(4):hover{
-    border-bottom: 3px solid #F8F32B;
-    padding-bottom: 10px;
+
+
+/* ////////////////////////////////////////////////////////////////// */
+
+
+
+
+.dropdown:active{
+    border-radius: 0px;
+    background-color: transparent;
+    border: none;
+    box-shadow: transparent;
+}
+
+.dropdown:hover{
+    border-radius: 0px;
+    background-color: transparent;
+    border: none;
+    box-shadow: transparent;
+}
+
+.dropdown:focus{
+    border-radius: 0px;
+    background-color: transparent;
+    border: none;
+    box-shadow: transparent;
 }
 
 
-.dropdown{
-    margin-top: -6.5px;
-    margin-left: 16px;
+.menu__item:nth-child(4){
+    margin-left: 40px;
+    margin-top: -5px;
+    border-radius: 0px;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
 }
-
-
-
-
 
 .btndrop{
+    border-radius: 0px;
     background-color: transparent;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 21px;
-    /* identical to box height */
-    margin-left: 20px;
-    letter-spacing: 0.01em;
-    
-    /* Фон */
-    
-    color: #F2F3F7;
-    border: 1px solid transparent;
-    
+    border: none;
+    box-shadow: transparent;
 }
-
-
-#dropdownMenuLink:active{
-    box-shadow: none;
-    border-radius: 25px;
-}
-
-
-
 
 .btndrop:hover{
+    border-radius: 0px;
     background-color: transparent;
-    border:   transparent;
-    box-shadow: none;
-    margin-left: 20px;
-    margin-top: 0.5px;
-    margin-right: 0;
-    margin-bottom: 0;
-    border-bottom: 3px solid #F8F32B;
-    padding-bottom: 10px;
-    border-radius: 0;
+    border: none;
+    box-shadow: transparent;
 }
 
 .btndrop:active{
+    border-radius: 0px;
     background-color: transparent;
-    border:   transparent;
+    border: none;
     box-shadow: none;
 }
 
 .btndrop:focus{
+    border-radius: 0px;
     background-color: transparent;
-    border:   transparent;
+    border: none;
     box-shadow: none;
 }
+
+
+
+
 
 .dropdown-menu{
     margin-top: 20px;
@@ -184,7 +187,7 @@ height: 320px;
 
 
 
-.dropdown-item{
+.dropitem{
     font-family: Roboto;
 font-style: normal;
 font-weight: normal;
@@ -202,11 +205,11 @@ margin-left: -1px;
 }
 
 
-.dropdown-item:hover{
+.dropitem:hover{
     background: #006285;
 }
 
-
+/* ////////////////////////////////////////////////////////////////////////////// */
 
 
 
