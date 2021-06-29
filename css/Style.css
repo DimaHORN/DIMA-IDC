@@ -455,9 +455,13 @@ color: #C4C2D9;
 }
 
 
+.btn-secondary .btndrop:active{
+ box-shadow: transparent;
+}
+
 .usercomedropploginphone2{
     margin-top: 20px;
-    background-image: url(../image/icons8-замок-19.png), url(../image/icons8-показать-19.png);
+    background-image: url(../image/icons819.png), url(../image/icons89.png);
     background-repeat: no-repeat;
     background-position: 14px,210px;
     width: 250px;
