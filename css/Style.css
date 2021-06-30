@@ -278,6 +278,14 @@ height: 270px;
     height: 42px;
 }
 
+.menu__alt03btn{
+    background-color: transparent;
+    border: 0;
+    
+}
+
+
+
 .menu__line1{
     height: 4px;
     margin-bottom: 5px;
