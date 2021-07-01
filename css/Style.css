@@ -494,7 +494,7 @@ opacity: 0.5;
 color: #C4C2D9;
 }
 
-.usercomedropploginBTN{
+.usercomedropploginbtn{
     margin-top: 32px;
     width: 250px; 
     height:48px;
@@ -518,7 +518,7 @@ letter-spacing: 0.02em;
 }
 
 
-.usercomedropploginRESET{
+.usercomedropploginreset{
     Width :164px;
 
 Height :24px;
@@ -2316,7 +2316,6 @@ line-height: 14px;
 display: flex;
 align-items: center;
 text-align: center;
-
 color: #AAA9BA;
 width: 285px;
 height: 29px;
@@ -2325,12 +2324,10 @@ margin-left: 125px;
 
 /* //////////////////////////////////////////////////////////////////////////////////// */
 
-.tab1{
-    
+.tab1{ 
     margin: 50px;
     width: 555px;
     height: 150px;
-
 background: #FFFFFF;
 box-shadow: 0px 8px 20px rgba(92, 92, 92, 0.25);
 border-radius: 8px;
@@ -2339,7 +2336,6 @@ border-radius: 8px;
 .totultext{
     width: 515px;
 height: 21px;
-
 font-family: Roboto;
 font-style: normal;
 font-weight: 600;
@@ -2347,9 +2343,7 @@ font-size: 18px;
 line-height: 21px;
 display: flex;
 align-items: center;
-
 /* Заголовок 2 */
-
 color: #37355B;
 margin: 30px 20px 10px 20px;
 padding-top: 20px;
@@ -2360,7 +2354,6 @@ padding-bottom: 10px;
 
 .fottednav{
     margin-top: 61px;
-   
     margin-bottom: 0;
    margin-left: 528px;
 }
@@ -2406,12 +2399,8 @@ border-radius: 32px;
 font-style: normal;
 font-weight: normal;
 font-size: 12px;
-
 /* identical to box height, or 133% */
-
-
 /* Заголовок 2 */
-
 color: #37355B;
 }
 
@@ -2530,7 +2519,6 @@ border-radius: 32px;
     color: #37355B;
     background: #F2F3F7;
 border: 2px solid #006285;
-
 border-radius: 32px;
 }
 
@@ -2553,4 +2541,158 @@ border-radius: 32px;
 }
 
 
+/* ////////////////////////////МЕНЮ_САЙТА////////////////////////////// */
 
+.header_menu{
+    background-color: #006285;
+    height: 1080px;
+}
+
+.headername{
+    width: 255px;
+height: 43px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+/* identical to box height */
+letter-spacing: 0.13em;
+/* Цвет фона */
+color: #F2F3F7;
+margin-top: 32px;
+cursor: pointer;
+}
+
+.headername:hover{
+    border-bottom: 3px solid #F8F32B;
+}
+
+.headernamebtn{
+    background-color: transparent;
+    border: 0;
+    margin-top: 40px;
+    margin-left: 960px;
+}
+
+.ulname{
+    font-family:Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+letter-spacing: 0.01em;
+/* Цвет фона */
+color: #F2F3F7;
+margin-top: 30px;
+border-bottom: 2px solid #7C7B8A;
+padding-bottom: 7px;
+}
+
+.ulll{
+    font-family:Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    white-space: nowrap;
+    letter-spacing: 0.01em;
+    /* Цвет фона */
+    color: #F2F3F7;
+    margin-top: 30px;
+    border-bottom: 2px solid #7C7B8A;
+    padding-bottom: 7px;
+}
+
+.li_item{
+    margin-top: 20px;
+}
+
+.li_item:nth-child(1){
+    margin-top: 23px;
+}
+
+.li_item_list{
+    text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+/* Цвет фона */
+color: #F2F3F7;
+white-space: nowrap;
+}
+.uldopbot1{
+    width: 204px;
+}
+.uldopbot2{
+    width: 168px;
+}
+.uldopbot3{
+    width: 159px;
+}
+.uldopbot4{
+    width: 202px;
+    white-space: nowrap;
+}
+.uldopbot5{
+    width: 199px;
+}
+.uldopbot6{
+    width: 166px;
+}
+.uldopbot7{
+    width: 87px;
+}
+.uldopbot8{
+    width: 269px;
+}
+.uldopbot9{
+    width: 139px;
+}
+
+/* /////////////////////////////////////////////////////////  ПОИСК_SEARCH  /////////////////////////////////////////////////// */
+
+
+.header_search{
+        background-color: #006285;
+        height: 1080px;
+}
+
+.search22{
+    background: #F2F3F7;
+border: 1px solid #A5D3FA;
+box-sizing: border-box;
+border-radius: 20px;
+width: 1333px;
+height: 50px;
+margin-top: 41px;
+padding-left: 14px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+/* Цвет текста */
+color: #7C7B8A;
+}
+
+.headernamem{
+    width: 133px;
+}
+
+
+.searchtexthed{
+    
+}
+
+.ulelementsearch:nth-child(2){
+    margin-left: 106px;
+}
