@@ -2546,6 +2546,7 @@ border-radius: 32px;
 .header_menu{
     background-color: #006285;
     height: 1080px;
+    display: none;
 }
 
 .headername{
