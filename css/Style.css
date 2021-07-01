@@ -2549,6 +2549,7 @@ border-radius: 32px;
     display: none;
 }
 
+
 .headername{
     width: 255px;
 height: 43px;
@@ -2662,6 +2663,7 @@ white-space: nowrap;
 .header_search{
         background-color: #006285;
         height: 1080px;
+        display: none;
 }
 
 .search22{
